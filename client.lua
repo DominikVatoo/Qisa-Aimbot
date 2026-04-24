@@ -1,4 +1,4 @@
--- Variables
+
 local ESX = nil
 local QBCore = nil
 local isAimbotEnabled = false
