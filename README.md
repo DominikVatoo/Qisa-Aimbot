@@ -23,7 +23,7 @@ In der `config.lua` kannst du alles einstellen:
 ```lua
 Config.Framework = "esx"              -- "esx", "qbcore" oder "standalone"
 Config.UsePermissions = true          -- false = jeder kann es nutzen
-Config.AdminGroups = {"admin", "pi"}  -- welche Gruppen Zugriff haben
+Config.AdminGroups = {"admin"}  -- welche Gruppen Zugriff haben
 Config.MenuCommand = "ab"             -- Command fürs Menü
 Config.MaxDistance = 250.0            -- maximale Reichweite
 Config.CheckLineOfSight = true        -- nur sichtbare Ziele
